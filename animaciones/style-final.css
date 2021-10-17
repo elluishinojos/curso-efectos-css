@@ -185,7 +185,7 @@ body {
     }
 }
 
-.caida:hover {
+.caida {
     animation: 1s caida 1;
     transform-origin: top left;
 }
@@ -212,7 +212,7 @@ body {
     }
 }
 
-.inRotativo:hover {
+.inRotativo {
     animation: 1s inRotativo 1;
 }
 
@@ -223,7 +223,7 @@ body {
     }
 }
 
-.outRotativo:hover {
+.outRotativo {
     animation: 1s outRotativo 1;
 }
 
